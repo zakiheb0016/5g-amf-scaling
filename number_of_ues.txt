@@ -1,0 +1,16 @@
+# Here you have the number of UEs that are entering the network. If UEs are more than 10, you have to deploy a second UERANSIM and a second AMF in addition to the previous ones: 
+5 UEs
+20 UEs
+22 UE
+8 UEs
+4 UEs
+16 UEs
+12 UEs
+14 UE
+8 UEs
+12 UEs
+18 UEs
+7 UEs
+1 UE
+3 UEs
+5 UEs
