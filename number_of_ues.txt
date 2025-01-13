@@ -1,15 +1,4 @@
-5 UEs
-20 UEs
+15 UEs
 22 UE
 8 UEs
-4 UEs
 16 UEs
-12 UEs
-14 UE
-8 UEs
-12 UEs
-18 UEs
-7 UEs
-1 UE
-3 UEs
-5 UEs
